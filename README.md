@@ -1,6 +1,6 @@
 # 🛡️ Image Provenance Vision Transformer Deepfake Detection
 
-An advanced deepfake detection and image provenance analysis system powered by Vision Transformers and graph-based encoding. This project combines modern AI research with a scalable web architecture to detect manipulated images and trace their origins.
+An advanced deepfake detection and image provenance analysis system powered by Vision Transformers and Graph-Based encoding. This project combines modern AI research with a scalable web architecture to detect manipulated images and trace their origins.
 
 ---
 
