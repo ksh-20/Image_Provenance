@@ -1,5 +1,12 @@
 torch
 torchvision
+torchaudio
+torch-geometric
+pyg_lib
+torch_scatter
+torch_sparse
+torch_cluster
+torch_spline_conv
 transformers
 timm
 scikit-learn

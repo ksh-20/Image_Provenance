@@ -24,8 +24,8 @@ from PIL import Image
 # ── Local imports ──
 import sys
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-from models.provenance_model import ProvenanceAnalysisModel, kruskal_mst
-from models.deepfake_detector import (
+from backend.models.provenance_model import ProvenanceAnalysisModel, kruskal_mst
+from backend.models.deepfake_detector import (
     GuardianEyeDeepfakeDetector,
     ProvenanceConditionedScoring,
     VisualFeatureExtractor
