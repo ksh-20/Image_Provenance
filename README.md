@@ -24,7 +24,7 @@ The system enables users to upload images, analyze authenticity, and visualize p
 ## 📁 Project Structure
 ``` bash
 
-Image Provenance Vision Transformer Deepfake Detection/
+Image_Provenance/
 ├── api/                  # Python-based FastAPI backend services for vision transformers and graph encoding
 ├── app/                  # Next.js App Directory
 ├── backend/              # Python-based backend services (Flask/FastAPI)
